@@ -63,7 +63,7 @@ iperf Done.
 
 ### Ethernet IRQ interval
 
-![Ethernet IRQ distance](/images/1/eth_irq_distance)
+![Ethernet IRQ distance](/images/1/eth_irq_distance.png)
 
 ### Task statistics tree
 
@@ -120,4 +120,4 @@ prvTCPWindowFastRetransmit: Requeue sequence number 143088 < 144548
 ### Task statistics and timing
 
 ![Task statistics iperf reversed](/images/1_reversed/task_statistics_reversed.png)
-![Task timing iperf reversed](/images/1_reversed/task_timing_reversed)
+![Task timing iperf reversed](/images/1_reversed/task_timing_reversed.png)
